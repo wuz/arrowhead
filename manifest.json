@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
-	"minAppVersion": "0.9.12",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md/about",
-	"isDesktopOnly": false
+  "id": "wuz-arrowhead",
+  "name": "Arrowhead",
+  "version": "0.0.1",
+  "minAppVersion": "0.9.12",
+  "description": "Generate a link based on your current note. For non-Obsidian published repos",
+  "author": "wuz <c@wuz.sh>",
+  "authorUrl": "https://wuz.sh",
+  "isDesktopOnly": false
 }
